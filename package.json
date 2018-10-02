@@ -20,5 +20,10 @@
     ">0.25%",
     "not op_mini all",
     "ie 11"
-  ]
+  ],
+  "devDependencies": {
+    "code": "^5.2.0",
+    "enzyme": "^3.6.0",
+    "enzyme-adapter-react-16": "^1.5.0"
+  }
 }
