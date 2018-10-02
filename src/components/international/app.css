@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,800");
+
+.translations-container {
+  border: 2px solid #ccc;
+  background-color: #ddd;
+  padding: 1em;
+  margin: 1em;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  background-color: #fff;
+  font-size: 1.4rem;
+  font-family: "Open Sans", sans-serif;
+}
+label {
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #444;
+}

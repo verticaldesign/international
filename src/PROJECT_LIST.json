@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Satelite Predictor",
+    "number_of_keys": 11,
+    "number_of_languages": 4
+  },
+  {
+    "name": "MOCI",
+    "number_of_keys": 165,
+    "number_of_languages": 13
+  },
+  {
+    "name": "CBYO",
+    "number_of_keys": 235,
+    "number_of_languages": 5
+  }
+]
