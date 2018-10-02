@@ -1,0 +1,15 @@
+.language-row {
+  display: flex;
+  margin: 0.5rem 0;
+  padding: 0.25rem;
+}
+.language-row:nth-child(odd) {
+  background-color: #eee;
+}
+.language-row-name input {
+  vertical-align: middle;
+  margin: 0.25rem;
+}
+.language-row-name {
+  flex-grow: 5;
+}

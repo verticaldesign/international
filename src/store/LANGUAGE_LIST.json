@@ -1,0 +1,50 @@
+[
+  {
+    "language_id": "111",
+    "language_name": "English",
+    "selected": true,
+    "available": true
+  },
+  {
+    "language_id": "222",
+    "language_name": "Spanish",
+    "selected": true,
+    "available": true
+  },
+  {
+    "language_id": "333",
+    "language_name": "French",
+    "selected": true,
+    "available": true
+  },
+  {
+    "language_id": "444",
+    "language_name": "German",
+    "selected": true,
+    "available": true
+  },
+  {
+    "language_id": "555",
+    "language_name": "Chinese-Simplified",
+    "selected": true,
+    "available": true
+  },
+  {
+    "language_id": "666",
+    "language_name": "Chinese-Traditional",
+    "selected": false,
+    "available": true
+  },
+  {
+    "language_id": "777",
+    "language_name": "Mandrin",
+    "selected": true,
+    "available": true
+  },
+  {
+    "language_id": "888",
+    "language_name": "Russian",
+    "selected": false,
+    "available": false
+  }
+]

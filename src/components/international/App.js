@@ -15,6 +15,7 @@ class App extends React.Component {
     };
   }
   componentDidMount() {
+    //getProjectList().then(projList => this.setState({ projectList: projList }));
     this.setState({ projectList: getProjectList() });
     this.setState({ languageList: getProjectLanguages() });
   }
